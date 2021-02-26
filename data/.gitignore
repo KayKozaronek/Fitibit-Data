@@ -1,0 +1,9 @@
+# exclude everything
+fitbit_1/*
+fitbit_2/*
+merged/*
+
+# exception to the rule
+!fitbit_1/.gitkeep
+!fitbit_2/.gitkeep
+!merged/.gitkeep
